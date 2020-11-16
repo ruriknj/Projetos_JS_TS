@@ -1,0 +1,29 @@
+* {
+background-color: aqua;
+}
+
+body {
+   flex: content;
+}
+
+.timer {
+    padding: 2px 10px 10px 15px;
+    font-size: 3em;
+    background-color: white;
+    color: black;
+
+}
+
+form button:hover {
+    background: var(--primary-color-darker);
+}
+
+#timer {
+    padding: 2px 15px 0px 15px;
+    background-color: white;
+    color: black;
+}
+
+.pausar {
+    color: red;
+}
